@@ -69,7 +69,7 @@ class _pag_mibolsaState extends State<pag_mibolsa> {
                       ]).show();
                 },
                 icon: Icon(Icons.playlist_add_check_rounded),
-                label: Text("¡COMPRAAR!"))
+                label: Text("¡COMPRAR!"))
           ],
         ),
       ),
