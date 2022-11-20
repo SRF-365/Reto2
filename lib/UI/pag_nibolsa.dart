@@ -60,7 +60,7 @@ class _pag_mibolsaState extends State<pag_mibolsa> {
                       desc: "Compra realizada exitosamente",
                       buttons: [
                         DialogButton(
-                            child: Text("ENTENDIDO"),
+                            child: Text("ENTENDIDOO"),
                             onPressed: () {
                               Control.limpiar();
                               Navigator.pop(context);
